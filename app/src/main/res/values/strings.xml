@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name" translatable="false">ArtShare</string>
+    <string name="login">Login</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="email" translatable="false">E-mail</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="already_have_an_account">Already have an Account?</string>
+    <string name="no_account">"Don't have an Account?"</string>
+    <string name="prompt_email" translatable="false">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="title_activity_s" translatable="false">MainActivity</string>
+    <string name="title_home" translatable="false">Home</string>
+    <string name="title_dashboard" translatable="false">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="like" translatable="false">Like</string>
+    <string name="likes" translatable="false">Likes</string>
+    <string name="my_account">My Account</string>
+    <!--    <string name="setting">Setting</string>-->
+    <string name="favourites">Favourites</string>
+    <string name="profile_image">"Profile image"</string>
+    <string name="settings">Settings</string>
+    <string name="upload">Upload</string>
+    <string name="title_activity_my_account" translatable="false">MyAccountActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="previous" translatable="false">Previous</string>
+
+    <string name="gallery_image" translatable="false">Gallery image</string>
+    <string name="gallery_item_preview" translatable="false">Gallery item preview</string>
+    <string name="account">Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="select">Select</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="tag">Tag</string>
+    <string name="add_tag">Add tag</string>
+    <string name="content" translatable="false">Content</string>
+    <string name="comments">Comments</string>
+    <string name="close_button" translatable="false">Close button</string>
+    <string name="my_posts">My posts</string>
+    <string name="my_images">My Images</string>
+    <string name="followers">Followers</string>
+    <string name="followings">Followings</string>
+    <string name="posts">Posts</string>
+    <string name="log_out">Log out</string>
+    <string name="change_e_mail">Change E-mail</string>
+    <string name="change_username">Change username</string>
+    <string name="language">Language</string>
+    <string name="theme">Theme</string>
+    <string name="about">About</string>
+    <string name="change_password">Change password</string>
+    <string name="print_your_new_e_mail">Print your new e-mail</string>
+    <string name="print_your_password">Print your password</string>
+    <string name="print_your_new_username">Print your new username</string>
+    <string name="print_your_new_password">Print your new password</string>
+    <string name="print_your_new_password_again">Print your new password again</string>
+    <string name="english" translatable="false">English</string>
+    <string name="polish" translatable="false">Polski</string>
+    <string name="ukrainian" translatable="false">Українська</string>
+    <string name="about_app">This program was developed as a project for the subject of mobile development in University of Economics in Katowice by Bohdan Kholmaniuk.</string>
+    <string name="copyright" translatable="false">© 2021 Bohdan Kholmaniuk</string>
+    <string name="follow">Follow</string>
+    <string name="unfollow">Unfollow</string>
+    <string name="report">Report</string>
+    <string name="delete">Delete</string>
+    <string name="no_content">No content</string>
+    <string name="update">Update</string>
+    <string name="edit">Edit</string>
+</resources>

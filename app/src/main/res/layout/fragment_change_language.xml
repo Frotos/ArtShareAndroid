@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <RadioGroup
+        android:id="@+id/languages_group"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginHorizontal="20dp">
+
+        <RadioButton
+            android:id="@+id/en"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/english"/>
+
+        <RadioButton
+            android:id="@+id/pl"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/polish"/>
+
+        <RadioButton
+            android:id="@+id/uk"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ukrainian"/>
+
+    </RadioGroup>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

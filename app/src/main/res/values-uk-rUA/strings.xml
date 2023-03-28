@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">Логування</string>
+    <string name="log_in">Залогуйся</string>
+    <string name="sign_up">Зареєструйся</string>
+    <string name="register">Реєстрація</string>
+    <string name="password">Пароль</string>
+    <string name="forgot_password">Забув пароль?</string>
+    <string name="print_your_new_password_again">Напиши новий пароль ще раз</string>
+    <string name="print_your_new_password">Напиши новий пароль</string>
+    <string name="print_your_password">Напиши пароль</string>
+    <string name="print_your_new_e_mail">Напиши новий e-mail</string>
+    <string name="change_password">Змінити пароль</string>
+    <string name="about">Про програму</string>
+    <string name="language">Мова</string>
+    <string name="theme">Тема</string>
+    <string name="change_e_mail">Змінити e-mail</string>
+    <string name="log_out">Вийти</string>
+    <string name="posts">Пости</string>
+    <string name="my_account">Мій аккаунт</string>
+    <string name="favourites">Улюблене</string>
+    <string name="profile_image">Аватар</string>
+    <string name="settings">Налаштування</string>
+    <string name="upload">Завантажити</string>
+    <string name="confirm_password">Підтверди пароль</string>
+    <string name="already_have_an_account">Маєш аккаунт?</string>
+    <string name="no_account">Не маєш аккаунту?</string>
+    <string name="my_images">Мої зображення</string>
+    <string name="my_posts">Мої пости</string>
+    <string name="comments">Коментарі</string>
+    <string name="add_tag">Додай тег</string>
+    <string name="title">Назва</string>
+    <string name="description">Опис</string>
+    <string name="select">Вибрати</string>
+    <string name="account">Аккаунт</string>
+    <string name="tag" translatable="false">Тег</string>
+    <string name="followers">Підписники</string>
+    <string name="followings" translatable="false">Підписки</string>
+    <string name="change_username" translatable="false">Змінити ім\'я користувача</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="username">Ім\'я користувача</string>
+    <string name="title_notifications">Повідомлення</string>
+    <string name="search" translatable="false">Пошук</string>
+    <string name="print_your_new_username" translatable="false">Напиши ім\'я користувача</string>
+    <string name="about_app">Ця програма була розроблена Богданом Холманюком як проект з предмету розробка мобільних програм в Економічному університеті в Катовіце.</string>
+    <string name="follow">Стежити</string>
+    <string name="unfollow">Не стежити</string>
+    <string name="home" translatable="false">Головна</string>
+    <string name="report">Поскаржитись</string>
+    <string name="delete">Видалити</string>
+    <string name="no_content">No content</string>
+</resources>

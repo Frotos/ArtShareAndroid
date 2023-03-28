@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="log_in">Załoguj się</string>
+    <string name="sign_up">Zarejestruj się</string>
+    <string name="register">Rejestracja</string>
+    <string name="password">Hasło</string>
+    <string name="forgot_password">Zapomniałeś hasło?</string>
+    <string name="confirm_password">Podtwierdź hasło</string>
+    <string name="already_have_an_account">Już masz Konto?</string>
+    <string name="no_account">Nie masz konta?</string>
+    <string name="print_your_new_e_mail">Napisz nowy e-mail</string>
+    <string name="print_your_password">Napisz hasło</string>
+    <string name="print_your_new_password">Napisz nowe hasło</string>
+    <string name="print_your_new_password_again">Napisz nowe hasło jeszcze raz</string>
+    <string name="change_password">Zmień hasło</string>
+    <string name="about">O aplikacji</string>
+    <string name="language">Język</string>
+    <string name="change_e_mail">Zmień e-mail</string>
+    <string name="log_out">Wyłoguj się</string>
+    <string name="posts">Posty</string>
+    <string name="my_images">Moje zdjęcia</string>
+    <string name="my_posts">Moje posty</string>
+    <string name="comments">Komentarze</string>
+    <string name="add_tag">Dodaj tag</string>
+    <string name="description">Opis</string>
+    <string name="title">Tytuł</string>
+    <string name="select">Wybierz</string>
+    <string name="account">Konto</string>
+    <string name="upload">Prześlij</string>
+    <string name="settings">Ustawienia</string>
+    <string name="profile_image">Zdjęcie profilowe</string>
+    <string name="favourites">Ulubione</string>
+    <string name="my_account">Moje konto</string>
+    <string name="login">Logowanie</string>
+    <string name="theme">Motyw</string>
+    <string name="tag" translatable="false">Tag</string>
+    <string name="followers">Obserwujące</string>
+    <string name="followings">Subskrypcje</string>
+    <string name="change_username">Zmień nazwę użytkownika</string>
+    <string name="prompt_password">Hasło</string>
+    <string name="username" translatable="false">Nazwa użytkownika</string>
+    <string name="title_notifications">Powiadomienia</string>
+    <string name="search" translatable="false">Szukaj</string>
+    <string name="print_your_new_username" translatable="false">Napisz nazwę użytkownika</string>
+    <string name="about_app">Ten program został opracowany jako projekt dla przedmiotu programowanie aplikacji mobilnych na Uniwersytecie Ekonomicznym w Katowicach przez Bohdana Kolmaniuka.</string>
+    <string name="follow" translatable="false">Śledź</string>
+    <string name="unfollow" translatable="false">Przestań śledzić</string>
+    <string name="home" translatable="false">Główna</string>
+    <string name="report">Zgłoś</string>
+    <string name="delete">Usuń</string>
+    <string name="no_content">No content</string>
+</resources>

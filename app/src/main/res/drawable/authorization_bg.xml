@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+
+        <shape android:shape="rectangle">
+            <solid android:color="#3A3430"/>
+        </shape>
+
+    </item>
+
+    <item android:drawable="@drawable/autorization_header_bg" android:gravity="top"/>
+
+<!--    <item android:drawable="@drawable/third_top_triangle" android:gravity="top"/>-->
+<!--    <item android:drawable="@drawable/top_triangle" android:gravity="top"/>-->
+<!--    <item android:drawable="@drawable/second_top_triangle" android:gravity="top"/>-->
+<!--    <item android:drawable="@drawable/third_bottom_triangle" android:gravity="bottom"/>-->
+<!--    <item android:drawable="@drawable/bottom_triangle" android:gravity="bottom"/>-->
+<!--    <item android:drawable="@drawable/second_bottom_triangle" android:gravity="bottom"/>-->
+
+</layer-list>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE resources [
+    <!ENTITY base_api_url "http://192.168.0.3:1980/api/">
+]>
+<resources>
+    <string name="base_logout_url" translatable="false">&base_api_url;authorization/logout</string>
+    <string name="base_register_url" translatable="false">&base_api_url;authorization/register</string>
+    <string name="base_login_url" translatable="false">&base_api_url;authorization/login</string>
+    <string name="session_user_url" translatable="false">&base_api_url;user/session_user</string>
+    <string name="user_url" translatable="false">&base_api_url;user/</string>
+    <string name="base_content_url" translatable="false">&base_api_url;content/</string>
+    <string name="first_content_page" translatable="false">&base_api_url;content/page/1</string>
+    <string name="base_comments_url" translatable="false">&base_api_url;comments/</string>
+    <string name="report_comment_url" translatable="false">&base_api_url;reports/comment</string>
+    <string name="report_content_url" translatable="false">&base_api_url;reports/content</string>
+    <string name="base_followings_url" translatable="false">&base_api_url;followings/</string>
+</resources>
